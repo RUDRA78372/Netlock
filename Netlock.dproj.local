@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020-08-10 09:52:21.000.360,=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020-08-10 09:53:24.000.715,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Weblock.dproj</Transaction>
+    <Transaction>2020-08-10 10:21:25.000.686,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Unit1.pas=H:\Coding\Weblock\Unit1.pas</Transaction>
+    <Transaction>2020-08-10 10:21:25.000.686,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Unit1.dfm=H:\Coding\Weblock\Unit1.dfm</Transaction>
+    <Transaction>2020-08-10 10:21:29.000.175,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Weblock.dproj=H:\Coding\Weblock\Weblock.dproj</Transaction>
+    <Transaction>2020-08-10 19:31:09.792,H:\Coding\Weblock\Netlock.dproj=H:\Coding\Weblock\Weblock.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
